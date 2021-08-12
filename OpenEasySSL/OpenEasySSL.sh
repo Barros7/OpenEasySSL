@@ -70,8 +70,8 @@ Gerar uma requisição de assinatura
 de certificado (CSR) para uma 
 chave privada existente:				openssl req -out CSR.csr -key privateKey.key -new
 ______________________________________________________________________________________________________________________________________________
-Autores: José Bongo, José Pereira, Hermenegildo Santos, Mbalú Júnior
-COPYRIGHT L-Team2021 "
+Autores: José Bongo
+COPYRIGHT José Bongo - 2021 "
 
 read operacao
 if [ $operacao -eq 0 ]
